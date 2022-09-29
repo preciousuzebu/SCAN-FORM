@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+body{
+    background: hsl(228, 47%, 67%);;
+}
+
+
+.container{
+    width: 80%;
+    border: 0px solid #ffffff;
+    margin: 60px auto;
+    box-shadow: 5px 5px 5px #aaaaaa;
+    border-radius: 20px;
+    background-color: #ffffff;
+}
+
+img{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+
+.main{
+    text-align: center;
+    padding: 10px;
+}
+
+h1{
+   line-height: 25px;
+   font-size: 20px;
+}
+
+p{
+    padding: 20px;
+    font-size: 13px;
+}
+
